@@ -27,3 +27,32 @@ color: black;}
 .top-container-text {color: white;
 font-family: verdana, sans-serif;
 }
+
+.medicine {position: absolute;
+height: 100px;
+width: 100px;
+left: 10px;
+top: 20px;
+}
+
+.drug_testing_title {font-family: serif;
+text-align: center;
+color: white;}
+
+.test-info {
+font-family: Ariel ,sans-serif;
+text-align: center;
+color: white;}
+
+.test-body {background-color: #2E4F4F;}
+
+
+
+.drug-test-icon {position: absolute;
+width: 88px;
+right: 10px;}
+
+
+
+.link {text-align: left;
+font-size: 120%;}
